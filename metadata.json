@@ -1,0 +1,8 @@
+{
+  "name": "Horoscope par l'Aura",
+  "description": "Découvrez votre horoscope du jour grâce à une analyse de votre aura énergétique. L'application capture votre essence pour vous fournir une lecture astrale personnalisée.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
